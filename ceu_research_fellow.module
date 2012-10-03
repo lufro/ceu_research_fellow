@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CEU Research Fellow feature.
+ */
+
+include_once 'ceu_research_fellow.features.inc';
